@@ -1,0 +1,45 @@
+*****Project Plan*****
+===================================================================================================
+===================================================================================================
+
+Phase #1 :
+------------------------------------------------------------------------------
+Screens to Design :
+
+ - 1 : Main Menu Overlay  -> Entry point / list menu {Opens the other UIs} 
+ 
+ - 2 : Inventory Panel -> View , equip , remove items by category 
+
+ - 3 : Map Screen -> filter icons 
+
+ - 4: Alchemy Interface -> Craft Bombs/Potions , see ingredients
+
+ - 5: Quest List -> View Active quests , select one to track 
+
+ - 6: Bestiary -> Read enemy and allies info 
+
+------------------------------------------------------------------------------
+
+Key UX tasks : 
+
+ - 1 : Main Menu Overlay  -> Open radial menu, select section, back {Clear navigation, consistency} 
+ 
+ - 2 : Inventory Panel -> Filter gear, inspect item, equip/remove {Grouping, visibility, feedback}
+
+ - 3 : Map Screen -> Zoom, set marker, filter icons, fast travel {Simplicity, spatial understanding}
+
+ - 4: Alchemy Interface -> View potion list, craft (or can't), see ingredients {Accessibility, guidance}
+
+ - 5: Quest List -> Scroll quests, see status/type, track one {Readability, user control}
+
+ - 6: Bestiary -> Read enemy and allies info 
+
+------------------------------------------------------------------------------
+
+We’ll keep each layout:
+
+Centered and focused
+
+One main action per screen
+
+Sidebars or tabs only when needed
